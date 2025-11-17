@@ -17,7 +17,7 @@ export function ProfileHero() {
             <div className="relative">
               <div className="w-48 h-48 bg-gradient-to-br from-blue-500 to-purple-600 rounded-3xl flex items-center justify-center shadow-2xl transform hover:scale-105 transition-transform">
                 <span className="text-8xl"><img 
-                src="/src/assets/profile.jpg" 
+                src="/src/asset/profile.jpg" 
               alt="Sajina CV" 
               className="w-full h-full object-cover"
   /></span>
