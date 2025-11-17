@@ -16,11 +16,8 @@ export function ProfileHero() {
           <div className="flex-shrink-0">
             <div className="relative">
               <div className="w-48 h-48 bg-gradient-to-br from-blue-500 to-purple-600 rounded-3xl flex items-center justify-center shadow-2xl transform hover:scale-105 transition-transform">
-                <span className="text-8xl"><img 
-                src="/src/asset/profile.jpg" 
-              alt="Sajina CV" 
-              className="w-full h-full object-cover"
-  /></span>
+                <span className="text-8xl">👨‍💼
+      </span>
               </div>
               <div className="absolute -top-2 -right-2 w-12 h-12 bg-green-500 rounded-full flex items-center justify-center shadow-lg border-4 border-slate-900">
                 <Sparkles className="w-6 h-6 text-white" />
