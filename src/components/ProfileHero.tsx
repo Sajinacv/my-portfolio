@@ -76,6 +76,7 @@ export function ProfileHero() {
                 size="lg"
                 className="gap-2 bg-blue-600 hover:bg-blue-700 border-2 border-blue-400 shadow-lg hover:shadow-xl transition-all"
               >
+                 <a href="/sajinaCV.pdf" download></a>
                 <Download className="w-5 h-5" />
                 Download CV
               </Button>
