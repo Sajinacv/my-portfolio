@@ -2,11 +2,17 @@
   import { defineConfig } from 'vite';
   import react from '@vitejs/plugin-react-swc';
   import path from 'path';
+<<<<<<< HEAD
  
 
   export default defineConfig({
     plugins: [react()],
     base: '/my-portfolio/',
+=======
+
+  export default defineConfig({
+    plugins: [react()],
+>>>>>>> 0fa467dfce35c3d19328e884f47dda4164f80e5f
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {

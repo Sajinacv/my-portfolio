@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-portfolio
 =======
+=======
+>>>>>>> 0fa467dfce35c3d19328e884f47dda4164f80e5f
 
   # Design Data Analyst Profile
 
@@ -11,5 +14,9 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+<<<<<<< HEAD
   
 >>>>>>> d617137 (Initial commit)
+=======
+  
+>>>>>>> 0fa467dfce35c3d19328e884f47dda4164f80e5f
